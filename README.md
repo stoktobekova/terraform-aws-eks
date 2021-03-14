@@ -1,4 +1,6 @@
-# terraform-aws-eks
+# Terraform0.14
+Used to create the eks
+please copy and paste 
 ```
 module "my-cluster" {
   source                        = "terraform-aws-modules/eks/aws"
