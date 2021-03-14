@@ -1,5 +1,4 @@
 # Terraform0.14
-Used to create the eks
 please copy and paste 
 ```
 module "my-cluster" {
