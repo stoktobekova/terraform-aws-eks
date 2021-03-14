@@ -1,4 +1,5 @@
 # terraform-aws-eks
+```
 module "my-cluster" {
   source                        = "terraform-aws-modules/eks/aws"
   version                       = "12.0.0"
@@ -15,3 +16,4 @@ module "my-cluster" {
   ]
   tags = var.tags
 }
+```
