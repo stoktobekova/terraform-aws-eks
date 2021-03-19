@@ -17,4 +17,5 @@ module "my-cluster" {
   ]
   tags = var.tags
 }
+
 ```
